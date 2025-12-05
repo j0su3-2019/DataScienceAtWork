@@ -1,0 +1,6 @@
+streamlit
+pandas
+pymssql
+azure-storage-blob
+openpyxl
+sqlalchemy
